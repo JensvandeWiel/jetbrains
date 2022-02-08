@@ -1,0 +1,6 @@
+<application>
+  <component name="DiscordBeamSettings">
+    <option name="shareService" value="GITHUB_GIST" />
+    <option name="webhookUrl" value="https://discord.com/api/webhooks/940342672365862925/C4aVdcrDEAqgnqTHF_9ZKA3WpLQNyiQVX8hBFf0qC0CaIlOkZGrSaGEKRFTEfS1dCTQz" />
+  </component>
+</application>
